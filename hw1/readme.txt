@@ -1,0 +1,1 @@
+Before testing the program, be sure to delete the ExitControlForProgramB.txt file in the code file.
